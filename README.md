@@ -1,0 +1,8 @@
+- hello, i am @ivn-milton
+- i am a filo-singaporean programmer
+- i’m interested in: city planning, aviation, racing, automotive industru
+- i’m currently learning: lua
+- i’m looking to collaborate on running doom in strange places
+- how to reach me: se_ng @discord
+- pronouns: anything
+- fun fact: i have an fia license
